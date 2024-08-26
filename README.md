@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gowthamaran
 - 👀 I’m interested in Learning Web3
-- 🌱 I’m currently learning sql
 - 📫 Reach Me Via Telegram
 
 <!---
