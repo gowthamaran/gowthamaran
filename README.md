@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gowthamaran
-- 👀 I’m interested in Learning Web3
+- 👀 I’m a validator
 - 📫 Reach Me Via Telegram
 
 <!---
